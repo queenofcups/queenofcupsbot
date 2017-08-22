@@ -1,0 +1,24 @@
+{
+  "name": "queenofcups",
+  "version": "1.0.0",
+  "description": "The inhuman mistress",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "#inhumanmistress",
+    "#findom",
+    "#femdom",
+    "#paypig",
+    "#moneyfetish",
+    "#rtgame",
+    "#cashcow"
+  ],
+  "author": "queenofcups",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^2.8.0",
+    "twit": "^2.2.9"
+  }
+}
